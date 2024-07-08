@@ -21,7 +21,7 @@
 * s23019 [サマータイムレンダ](https://summertime-anime.com/)
 * s23020 [ONE PEACE](https://one-piece.com/index.html "ワンピース")
 * s23021 [鬼滅の刃](https://kimetsu.com/)
-* s23022
+* s23022 [葬送のフリーレン](https://frieren-anime.jp/)
 * s23023 [ヴァイオレットエヴァーガーデン](https://violet-evergarden.jp/)
 * s23024
 * s23027 [ハンターハンター](https://www.ntv.co.jp/hunterhunter/)
