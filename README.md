@@ -18,7 +18,7 @@
 * s23016 [無職転生](https://mushokutensei.jp/)
 * s23017 [ジョジョの奇妙な冒険](https://jojo-portal.com/anime/) 第４部が好き
 * s23018 [ONE PIECE](https://one-piece.com/anime/index.html) 
-* s23019
+* s23019 [サマータイムレンダ](https://summertime-anime.com/)
 * s23020 [ONE PEACE](https://one-piece.com/index.html "ワンピース")
 * s23021 [鬼滅の刃](https://kimetsu.com/)
 * s23022
