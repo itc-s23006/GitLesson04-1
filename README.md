@@ -23,7 +23,7 @@
 * s23021 [鬼滅の刃](https://kimetsu.com/)
 * s23022 [葬送のフリーレン](https://frieren-anime.jp/)
 * s23023 [ヴァイオレットエヴァーガーデン](https://violet-evergarden.jp/)
-* s23024
+* s23024 [ワンピース](https://one-piece.com/anime/index.html "ワンピース")
 * s23027 [ハンターハンター](https://www.ntv.co.jp/hunterhunter/)
 * s23028
 * s23029 [**ワールドトリガー**](https://www.toei-anim.co.jp/tv/wt/)
