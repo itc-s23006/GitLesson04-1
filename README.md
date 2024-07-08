@@ -24,6 +24,6 @@
 * s23022
 * s23023 [ヴァイオレットエヴァーガーデン](https://violet-evergarden.jp/)
 * s23024
-* s23027
+* s23027 [ハンターハンター](https://www.ntv.co.jp/hunterhunter/)
 * s23028
 * s23029
