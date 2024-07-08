@@ -17,7 +17,7 @@
 * s23015
 * s23016
 * s23017
-* s23018   ONE PIECE   [ONE PIECE](https://one-piece.com/anime/index.html) 
+* s23018  [ONE PIECE](https://one-piece.com/anime/index.html) 
 * s23019
 * s23020
 * s23021
