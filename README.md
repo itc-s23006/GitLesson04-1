@@ -3,7 +3,7 @@
 
 ### あなたのおすすめのアニメを教えてください
 
-* s23001 <https://www.ntv.co.jp/hunterhunter/ "ハンターハンター">
+* s23001 [ハンターハンター](https://www.ntv.co.jp/hunterhunter/)
 * s23004
 * s23005
 * s23006
