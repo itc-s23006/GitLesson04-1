@@ -17,10 +17,10 @@
 * s23015
 * s23016
 * s23017
-* s23018  [ONE PIECE](https://one-piece.com/anime/index.html) 
+* s23018 [ONE PIECE](https://one-piece.com/anime/index.html) 
 * s23019
-* s23020
-* s23021[鬼滅の刃](https://kimetsu.com/)
+* s23020 [ONE PEACE](https://one-piece.com/index.html "ワンピース")
+* s23021 [鬼滅の刃](https://kimetsu.com/)
 * s23022
 * s23023 [ヴァイオレットエヴァーガーデン](https://violet-evergarden.jp/)
 * s23024
