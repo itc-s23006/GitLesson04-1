@@ -12,7 +12,7 @@
 * s23010
 * s23011 [ワンピース](https://one-piece.com/index.html)
 * s23012
-* s23013
+* s23013 [暗殺教室](https://www.ansatsu-anime.com/)
 * s23014 [STEINS;GATE](http://steinsgate.tv/index.html)
 * s23015
 * s23016 [無職転生](https://mushokutensei.jp/)
