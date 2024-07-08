@@ -23,7 +23,7 @@
 * s23021
 * s23022
 * s23023
-* s23024
+* s23024 ワンピース [Qiita](https://one-piece.com/anime/index.html "ワンピース")
 * s23027
 * s23028
 * s23029
