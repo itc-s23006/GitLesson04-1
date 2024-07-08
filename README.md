@@ -19,7 +19,7 @@
 * s23017
 * s23018
 * s23019
-* s23020 [ONE PIECE](https://one-piece.com/index.html"ワンピース")
+* s23020 [ONE PIECE](https://one-piece.com/index.html "ワンピース")
 * s23021
 * s23022
 * s23023
