@@ -26,4 +26,4 @@
 * s23024
 * s23027 [ハンターハンター](https://www.ntv.co.jp/hunterhunter/)
 * s23028
-* s23029
+* s23029 [**ワールドトリガー**](https://www.toei-anim.co.jp/tv/wt/)
