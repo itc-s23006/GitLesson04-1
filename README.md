@@ -9,7 +9,7 @@
 * s23006
 * s23007
 * s23009
-* s23010 [Qiita](https://occultic-nine.com "オカルティック・ナイン")
+* s23010 [オカルティック・ナイン](https://occultic-nine.com)
 * s23011
 * s23012
 * s23013
