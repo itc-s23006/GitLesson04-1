@@ -9,7 +9,7 @@
 * s23006
 * s23007 [ブラッククローバー](https://bclover.jp/)
 * s23009 [ジョジョの奇妙な冒険](https://jojo-portal.com/)　第９部なかなかおもろいです。
-* s23010
+* s23010 [オカルティック・ナイン](https://occultic-nine.com)
 * s23011 [ワンピース](https://one-piece.com/index.html)
 * s23012 [銀魂](https://www.tv-tokyo.co.jp/anime/gintama/)
 * s23013 [暗殺教室](https://www.ansatsu-anime.com/)
