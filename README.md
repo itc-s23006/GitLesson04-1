@@ -21,7 +21,7 @@
 * s23019
 * s23020
 * s23021
-* s23022 https://frieren-anime.jp/
+* s23022 [葬送のフリーレン](https://frieren-anime.jp/)
 * s23023
 * s23024
 * s23027
