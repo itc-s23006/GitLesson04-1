@@ -5,7 +5,7 @@
 
 * s23001
 * s23004
-* s23005 [進撃の巨人] (https://shingeki.net/#/)
+* s23005 [進撃の巨人](https://shingeki.net/#/)
 * s23006
 * s23007
 * s23009
