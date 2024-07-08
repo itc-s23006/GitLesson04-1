@@ -25,5 +25,5 @@
 * s23023
 * s23024
 * s23027
-* # [メイドインアビス](https://webcomicgamma.takeshobo.co.jp/manga/madeinabyss/ "メイドインアビス公式サイト")(h1)  
+* s23028 # [メイドインアビス](https://webcomicgamma.takeshobo.co.jp/manga/madeinabyss/ "メイドインアビス公式サイト") (h1)  
 * s23029
