@@ -16,7 +16,7 @@
 * s23014 [STEINS;GATE](http://steinsgate.tv/index.html)
 * s23015
 * s23016 [無職転生](https://mushokutensei.jp/)
-* s23017
+* s23017 [ジョジョの奇妙な冒険](https://jojo-portal.com/anime/) 第４部が好き
 * s23018 [ONE PIECE](https://one-piece.com/anime/index.html) 
 * s23019
 * s23020 [ONE PEACE](https://one-piece.com/index.html "ワンピース")
