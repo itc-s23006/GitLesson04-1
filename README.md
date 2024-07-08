@@ -5,7 +5,7 @@
 
 * s23001 [ハンターハンター](https://www.ntv.co.jp/hunterhunter/)
 * s23004
-* s23005
+* s23005 [進撃の巨人] (https://shingeki.net/#/)
 * s23006
 * s23007 [ブラッククローバー](https://bclover.jp/)
 * s23009 [ジョジョの奇妙な冒険](https://jojo-portal.com/)　第９部なかなかおもろいです。
