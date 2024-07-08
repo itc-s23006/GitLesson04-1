@@ -13,7 +13,7 @@
 * s23011
 * s23012
 * s23013
-* s23014 ##STEINS;GATE  [公式サイト](http://steinsgate.tv/index.html)
+* s23014 [STEINS;GATE](http://steinsgate.tv/index.html)
 * s23015
 * s23016
 * s23017
