@@ -25,5 +25,6 @@
 * s23023 [ヴァイオレットエヴァーガーデン](https://violet-evergarden.jp/)
 * s23024 [ワンピース](https://one-piece.com/anime/index.html "ワンピース")
 * s23027 [ハンターハンター](https://www.ntv.co.jp/hunterhunter/)
-* s23028
+* s23028 [メイドインアビス](https://webcomicgamma.takeshobo.co.jp/manga/madeinabyss/ "メイドインアビス公式サイト")
 * s23029 [**ワールドトリガー**](https://www.toei-anim.co.jp/tv/wt/)
+
