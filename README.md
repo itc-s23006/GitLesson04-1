@@ -6,7 +6,7 @@
 * s23001 
 * s23004
 * s23005 [進撃の巨人](https://shingeki.net/#/)
-* s23006
+* s23006 [ONE PIECE](https://one-piece.com/index.html)
 * s23007 
 * s23009 
 * s23010 
